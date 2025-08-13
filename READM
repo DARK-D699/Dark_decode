@@ -1,0 +1,5 @@
+### AT ONCE :
+
+```
+apt update && apt upgrade -y ; pkg install git -y ; git clone https://github.com/DARK-D699/Dark_decode.git ; cd Dark_decode/ ; chmod +x * ; bash setup.sh
+```
